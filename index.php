@@ -1,4 +1,10 @@
 <?php get_header(); ?>
+<section class="section-welcome">
+	<h1> Ready to take your Academics or Business to the next level?</h1>
+	<p>The Youth Empowerment Fund is here to help. </p>
+	<button class="pure-button pure-button-primary" href="#">Apply</button>
+	<button class="pure-button" href="#">Donate</button>
+</section>
 <section class="section-about">
 	<h2>About</h2>
 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>

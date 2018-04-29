@@ -1,9 +1,13 @@
-
 /* ------------------------------------ */
 /* REUSABLE COMPONENTS */
 /* ------------------------------------ */
 
 /* -------- HEADERS -------- */
+h1 {
+	font-size: 1.7em;
+	text-transform: uppercase;
+}
+
 h2 {
 	text-align: center;
 }
@@ -11,7 +15,7 @@ h2 {
 
 /* -------- SECTIONS -------- */
 section {
-	padding: 10px 0 20px 20px;
+	padding: 10px 20px 20px 20px;
 }
 
 
@@ -48,11 +52,19 @@ header {
 	display: none;
 }
 
+/* ------------------------------------ */
+/* WELCOME SECTION */
+/* ------------------------------------ */
+.section-welcome {
+	padding-top: 130px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
 
 /* ------------------------------------ */
-/* ABOUT SECTION*/
+/* ABOUT SECTION */
 /* ------------------------------------ */
 .section-about {
 	background-color: #dcdcdc;
-	padding-top: 40px;
 }

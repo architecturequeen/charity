@@ -5,6 +5,7 @@
 	<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri().'/vendor/css/ionicons.min.css'; ?>">
 	<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
 	<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri().'/vendor/css/grids-min.css'; ?>" >
+	<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri().'/vendor/css/buttons-min.css'; ?>" >
 	<!--[if lte IE 8]>
 		<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri().'/vendor/css/grids-responsive-old-ie-min.css'; ?>" >
 	<![endif]-->
