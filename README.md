@@ -1,1 +1,3 @@
 # charity
+
+Wordpress charity theme
