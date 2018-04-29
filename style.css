@@ -1,0 +1,58 @@
+
+/* ------------------------------------ */
+/* REUSABLE COMPONENTS */
+/* ------------------------------------ */
+
+/* -------- HEADERS -------- */
+h2 {
+	text-align: center;
+}
+
+
+/* -------- SECTIONS -------- */
+section {
+	padding: 10px 0 20px 20px;
+}
+
+
+/* -------- ICONS --------- */
+.icon-big {
+	font-size: 350%;
+}
+
+
+/* ------------------------------------ */
+/* HEADER */
+/* ------------------------------------ */
+header {
+	background-color: lightgreen;
+	height: 50px;
+	width: 100%;
+	position: fixed;
+}
+
+.logo {
+	margin-top: 13px;
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.mobile-menu {
+	float: right;
+	margin-right: 20px;
+	font-size: 45px;
+	margin-top: 3px
+}
+
+.main-nav {
+	display: none;
+}
+
+
+/* ------------------------------------ */
+/* ABOUT SECTION*/
+/* ------------------------------------ */
+.section-about {
+	background-color: #dcdcdc;
+	padding-top: 40px;
+}
